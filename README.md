@@ -1,2 +1,43 @@
-# Git-Challenge-Class
-This is repository to test the command line during the class
+# 🍫 The Great Git Race: Chocolate Edition 🚀
+
+Welcome to our live Git practice! Master the workflow and compete for glory.
+
+---
+
+## 🛠️ QUICK STEPS (COMMANDS)
+
+### 1. Setup
+* **Fork** this repository (button at the top right).
+* **Clone your fork:** `git clone [YOUR_FORK_URL]`
+* **Enter folder:** `cd [REPO_NAME]`
+
+### 2. Create Branch
+* `git switch -c branch-name`
+
+### 3. Edit & Save
+* Open **participantes.md**.
+* Add your Name and an Emoji.
+* **Save the file.**
+
+### 4. Commit & Push
+* `git add .`
+* `git commit -m "Claiming my chocolate 🍫"`
+* `git push origin branch-name`
+
+### 5. Finish 🏁
+* Go to your **Fork** on GitHub web.
+* Click **"Compare & pull request"**.
+* Click **"Create pull request"**.
+
+---
+
+## 🏆 PRIZES
+* 🥇 **1st Place:** Chocolate 🍫
+* 🥈 **2nd Place:** Chocolate 🍫
+* 🥉 **3rd Place:** Chocolate 🍫
+* 🛡️ **Survivor:** Last person to successfully merge. **Keep going!**
+
+---
+
+
+* **Refresh:** I am watching the **Pull Requests** tab live!

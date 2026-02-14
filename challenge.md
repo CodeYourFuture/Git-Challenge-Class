@@ -6,7 +6,7 @@ Add your name to the list below and be part of the challenge!
 
 ### 🍫 The Wall of Fame:
 1. 
-2. 
+2. Laura
 3. 
 4. 
 5. 

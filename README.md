@@ -1,4 +1,4 @@
-# 🍫 The Great Git Race: Chocolate Edition 🚀
+# 🍫 The Great Git Race 🚀
 
 Welcome to our live Git practice! Master the workflow and compete for glory.
 
@@ -32,9 +32,9 @@ Welcome to our live Git practice! Master the workflow and compete for glory.
 ---
 
 ## 🏆 PRIZES
-* 🥇 **1st Place:** Chocolate 🍫
-* 🥈 **2nd Place:** Chocolate 🍫
-* 🥉 **3rd Place:** Chocolate 🍫
+* 🥇 **1st Place:** 
+* 🥈 **2nd Place:** 
+* 🥉 **3rd Place:**
 * 🛡️ **Survivor:** Last person to successfully merge. **Keep going!**
 
 ---

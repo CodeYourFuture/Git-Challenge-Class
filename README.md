@@ -1,4 +1,4 @@
-# 🍫 The Great Git Race 🚀
+#  The Great Git Race 🚀
 
 Welcome to our live Git practice! Master the workflow and compete for glory.
 

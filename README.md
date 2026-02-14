@@ -21,7 +21,7 @@ Welcome to our live Git practice! Master the workflow and compete for glory.
 
 ### 4. Commit & Push
 * `git add .`
-* `git commit -m "Claiming my chocolate 🍫"`
+* `git commit -m "message"`
 * `git push origin branch-name`
 
 ### 5. Finish 🏁
